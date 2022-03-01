@@ -6,6 +6,10 @@ namespace TesteGit {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Good morning");
 
+            for (int i = 0; i < 3; i++) {
+                Console.WriteLine("oi");
+            }
+
 
         }
     }
